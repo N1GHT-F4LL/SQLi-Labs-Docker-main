@@ -1,0 +1,58 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 10 05:39:54.478778 2025] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.53 (Unix) PHP/7.3.33 configured -- resuming normal operations
+[Tue Jun 10 05:39:54.479091 2025] [core:notice] [pid 8] AH00094: Command line: 'httpd -D FOREGROUND'
+[Tue Jun 10 05:43:07.327425 2025] [php7:warn] [pid 13] [client 172.19.0.1:50052] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 05:43:15.885052 2025] [php7:warn] [pid 9] [client 172.19.0.1:36598] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 05:43:51.782706 2025] [php7:warn] [pid 11] [client 172.19.0.1:51860] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 05:44:50.748956 2025] [php7:warn] [pid 11] [client 172.19.0.1:42902] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 05:51:42.065312 2025] [php7:warn] [pid 44] [client 172.19.0.1:52478] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 05:53:15.016387 2025] [php7:warn] [pid 9] [client 172.19.0.1:54972] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 05:55:11.086127 2025] [php7:warn] [pid 13] [client 172.19.0.1:36828] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 05:56:06.474360 2025] [php7:warn] [pid 9] [client 172.19.0.1:38706] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 05:56:35.485473 2025] [php7:warn] [pid 12] [client 172.19.0.1:38712] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 05:56:43.578867 2025] [php7:warn] [pid 44] [client 172.19.0.1:43874] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 05:57:17.542842 2025] [php7:warn] [pid 10] [client 172.19.0.1:46862] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 05:57:37.146311 2025] [php7:warn] [pid 9] [client 172.19.0.1:46878] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 05:57:44.012537 2025] [php7:warn] [pid 9] [client 172.19.0.1:44950] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 05:58:14.522308 2025] [php7:warn] [pid 44] [client 172.19.0.1:42136] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 05:58:52.773910 2025] [php7:warn] [pid 13] [client 172.19.0.1:56410] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 05:59:29.026528 2025] [php7:warn] [pid 10] [client 172.19.0.1:56412] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 05:59:37.899186 2025] [php7:warn] [pid 12] [client 172.19.0.1:49894] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:13:32.507459 2025] [php7:warn] [pid 78] [client 172.19.0.1:55104] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 10 06:15:27.948205 2025] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.53 (Unix) PHP/7.3.33 configured -- resuming normal operations
+[Tue Jun 10 06:15:27.948494 2025] [core:notice] [pid 8] AH00094: Command line: 'httpd -D FOREGROUND'
+[Tue Jun 10 06:16:14.688048 2025] [php7:warn] [pid 45] [client 172.19.0.1:39716] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:16:14.699960 2025] [php7:warn] [pid 9] [client 172.19.0.1:39726] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:16:21.442497 2025] [php7:warn] [pid 10] [client 172.19.0.1:39780] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:16:21.452931 2025] [php7:warn] [pid 13] [client 172.19.0.1:39790] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:16:21.458022 2025] [php7:warn] [pid 14] [client 172.19.0.1:39796] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:16:21.461816 2025] [php7:warn] [pid 45] [client 172.19.0.1:39808] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:16:21.466316 2025] [php7:warn] [pid 9] [client 172.19.0.1:39822] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:16:21.529429 2025] [php7:warn] [pid 14] [client 172.19.0.1:39918] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:16:21.535660 2025] [php7:warn] [pid 45] [client 172.19.0.1:39932] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:16:22.991143 2025] [php7:warn] [pid 13] [client 172.19.0.1:59292] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:16:23.010916 2025] [php7:warn] [pid 9] [client 172.19.0.1:59312] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:17:45.725831 2025] [php7:warn] [pid 14] [client 172.19.0.1:37648] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:29:11.706434 2025] [php7:warn] [pid 12] [client 172.19.0.1:55684] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:29:35.092075 2025] [php7:warn] [pid 13] [client 172.19.0.1:47202] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:29:50.501139 2025] [php7:warn] [pid 14] [client 172.19.0.1:38370] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:30:57.732026 2025] [php7:warn] [pid 10] [client 172.19.0.1:34110] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:31:46.827370 2025] [php7:warn] [pid 12] [client 172.19.0.1:55026] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:32:28.769609 2025] [php7:warn] [pid 13] [client 172.19.0.1:56774] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:32:43.539628 2025] [php7:error] [pid 14] [client 172.19.0.1:58214] script '/var/www/html/backdoor.php' not found or unable to stat
+[Tue Jun 10 06:34:11.298460 2025] [php7:warn] [pid 45] [client 172.19.0.1:56964] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:34:18.656454 2025] [php7:warn] [pid 9] [client 172.19.0.1:55862] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:34:25.997977 2025] [php7:error] [pid 10] [client 172.19.0.1:55210] script '/var/www/html/a.php' not found or unable to stat
+[Tue Jun 10 06:34:32.649391 2025] [php7:error] [pid 12] [client 172.19.0.1:57326] script '/var/www/html/a.php' not found or unable to stat
+[Tue Jun 10 06:36:44.091683 2025] [php7:warn] [pid 13] [client 172.19.0.1:46686] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:38:00.693244 2025] [php7:warn] [pid 14] [client 172.19.0.1:49070] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:38:08.037688 2025] [php7:error] [pid 45] [client 172.19.0.1:33868] script '/var/www/html/a.php' not found or unable to stat
+[Tue Jun 10 06:38:15.353560 2025] [php7:error] [pid 9] [client 172.19.0.1:49774] script '/var/www/html/a.php' not found or unable to stat
+[Tue Jun 10 06:38:18.155497 2025] [php7:error] [pid 9] [client 172.19.0.1:49774] script '/var/www/html/a.php' not found or unable to stat
+[Tue Jun 10 06:38:18.667675 2025] [php7:error] [pid 9] [client 172.19.0.1:49774] script '/var/www/html/a.php' not found or unable to stat
+[Tue Jun 10 06:38:19.071211 2025] [php7:error] [pid 9] [client 172.19.0.1:49774] script '/var/www/html/a.php' not found or unable to stat
+[Tue Jun 10 06:38:19.380239 2025] [php7:error] [pid 9] [client 172.19.0.1:49774] script '/var/www/html/a.php' not found or unable to stat
+[Tue Jun 10 06:41:06.189334 2025] [php7:warn] [pid 10] [client 172.19.0.1:56846] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:42:05.448423 2025] [php7:warn] [pid 12] [client 172.19.0.1:36022] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
+[Tue Jun 10 06:57:56.422169 2025] [php7:warn] [pid 13] [client 172.19.0.1:50756] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/www/html/data.php on line 38
