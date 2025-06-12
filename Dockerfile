@@ -1,5 +1,5 @@
 # Use Alpine Linux as base image
-FROM alpine:3.12.11
+FROM alpine:3.22.0
 LABEL maintainer=yuyudhn@gmail.com
 
 # Set environment variables
