@@ -13,7 +13,7 @@ ENV APACHE_RUN_USER=apache \
 
 # Update package repositories and install Apache and PHP
 RUN apk update && \
-    apk add --no-cache apache2 php7-apache2 php7-mysqli php7-session bash nano mysql mysql-client
+    apk add --no-cache apache2 php83-apache2 php83-mysqli php83-session bash nano mariadb mariadb-client
 
 # Configure Apache
 RUN mkdir -p /run/apache2 && \

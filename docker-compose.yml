@@ -6,7 +6,7 @@ services:
     hostname: sqli-docker-labs
     build: .
     ports:
-      - '0.0.0.0:1337:80'
+      - '0.0.0.0:80:80'
     volumes:
       - ./logs:/var/log/apache2
       - mysql-data:/var/lib/mysql
